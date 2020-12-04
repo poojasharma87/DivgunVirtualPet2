@@ -1,1 +1,1 @@
-# DivgunVirtualPet2
+# Virtual-Pet-2
